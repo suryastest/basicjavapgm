@@ -6,7 +6,7 @@ public class Arthematicoperator {
 		
 		//Arithmetic Operators : - + * / % ++ --
 		
-		int a, b = 10, c = 5;
+		int a, b = 8, c = 2;
 		a = b + c;
 		System.out.println("Value of 'a' after '+' Arithmetic operation is " + a);
 		a = b - c;
