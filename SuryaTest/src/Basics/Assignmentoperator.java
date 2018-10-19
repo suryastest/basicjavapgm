@@ -3,6 +3,7 @@ package Basics;
 public class Assignmentoperator {
 	
 	//Normal Assignment
+	//test comment
 		static int speed = 80; // speed variable gets the value 80
 		static int distance = 20; // distance variable gets the value 20
 		static int time = 10; // time variable gets the value 10
